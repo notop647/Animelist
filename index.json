@@ -71,7 +71,7 @@
       }
     ]
   },
-    \{
+  {
     "name": "Aniyomi: SpankBang",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.spankbang",
     "apk": "aniyomi-all.spankbang-v14.3.apk",
