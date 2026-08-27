@@ -88,6 +88,24 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Aniyomi: Chaturbate",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.chaturbate",
+    "apk": "aniyomi-all.chaturbate-v14.3.apk",
+    "lang": "all",
+    "code": 3,
+    "version": "14.3",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Chaturbate",
+        "lang": "all",
+        "id": "8016727706963226868",
+        "baseUrl": "https://www.chaturbate.com",
+        "versionId": 1
+      }
+    ]
   }
 
 ]
